@@ -1,0 +1,13 @@
+.menuList{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    padding: 0;
+}
+.checked {
+    color: orange;
+  }
+.textColor{
+    color: black !important;
+    font-weight: bold !important;
+}  
