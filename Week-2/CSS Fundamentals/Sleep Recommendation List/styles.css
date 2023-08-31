@@ -1,0 +1,26 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: #EDF4FB;
+  }
+
+  /* Styling for h1 */
+  h1 {
+    color: rgb(26, 69, 107);
+  }
+
+  /* Styling for li */
+  li {
+    color: #296CA8;
+  }
+
+  /* Styling for span with class "age" */
+  span.age {
+    font-style: italic;
+  }
+
+  /* Styling for span with class "recommended" */
+  span.recommended {
+    background-color: yellow;
+    text-decoration: underline;
+  }
