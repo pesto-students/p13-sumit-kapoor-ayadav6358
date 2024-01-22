@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Portfolio Website",
+      "description": "Built a responsive portfolio website using React and React Router.",
+      "image": "portfolio-image.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "Developed a task management application with user authentication.",
+      "image": "task-app-image.jpg"
+    }
+  ]
+  
